@@ -1,0 +1,31 @@
+{
+  "schema_version": "demo-1.0",
+  "denylisted_packages": [
+    {
+      "name": "pycrypto",
+      "severity": "CRITICAL",
+      "consequence": "Sample consequence: an unmaintained cryptography dependency may leave known security flaws unpatched and expose protected data.",
+      "recommendation": "Replace it with an approved, maintained cryptography package and review the lockfile."
+    },
+    {
+      "name": "example-telemetry-sdk",
+      "severity": "HIGH",
+      "consequence": "Sample consequence: application or source-code telemetry could leave the organization without an approved data-processing agreement.",
+      "recommendation": "Use an approved telemetry provider or self-host the service."
+    }
+  ],
+  "denylisted_domains": [
+    {
+      "domain": "example-unvetted-llm-api.io",
+      "severity": "CRITICAL",
+      "consequence": "Sample consequence: prompts, source code, or personal data could be sent to an unvetted external AI endpoint.",
+      "recommendation": "Use an approved provider with documented retention, training, residency, and contract controls."
+    },
+    {
+      "domain": "example-thirdparty-analytics.io",
+      "severity": "HIGH",
+      "consequence": "Sample consequence: analytics events may disclose identifiers or usage data to a service outside the approved vendor list.",
+      "recommendation": "Remove the endpoint or route events through an approved, contractually covered service."
+    }
+  ]
+}

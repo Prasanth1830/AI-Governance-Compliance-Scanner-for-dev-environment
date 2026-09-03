@@ -340,4 +340,4 @@ The full commercial version includes deep integrations with Enterprise SSO provi
 
 For commercial version, enterprise deployment, or private repository access:
 
-<a href="mailto:james@azrlabs.com?subject=Commercial%20Version%20Inquiry%20-%20Antigravity%20CLI&body=Hi%20James,%0A%0AI%20am%20interested%20in%20the%20commercial%20version%20of%20Antigravity%20CLI%20for%20our%20organization.%0A%0APlease%20let%20us%20know%20the%20next%20steps.%0A%0ABest%20regards,">james@azrlabs.com</a>
+<a href="mailto:prasanthsh46@gmail.com?subject=Commercial%20Version%20Inquiry%20-%20Antigravity%20CLI&body=Hi%20James,%0A%0AI%20am%20interested%20in%20the%20commercial%20version%20of%20Antigravity%20CLI%20for%20our%20organization.%0A%0APlease%20let%20us%20know%20the%20next%20steps.%0A%0ABest%20regards,">prasanthsh46@gmail.com</a>

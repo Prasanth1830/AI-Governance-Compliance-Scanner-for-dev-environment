@@ -137,8 +137,6 @@ Admin panel live at: [http://azrlabs.com/governai](http://azrlabs.com/governai)
 **Image 2 – End-to-End Flow Diagram**  
 ![Antigravity CLI Architecture & Flow](https://github.com/user-attachments/assets/flow-placeholder-antigravity-architecture.png)
 
-*(Replace the placeholder image URLs with actual screenshots or diagrams when you upload them.)*
-
 ---
 
 ## 1. Description
